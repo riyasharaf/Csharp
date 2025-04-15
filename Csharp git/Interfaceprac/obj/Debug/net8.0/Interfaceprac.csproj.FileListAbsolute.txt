@@ -1,0 +1,14 @@
+C:\Users\riyas\source\repos\Interfaceprac\bin\Debug\net8.0\Interfaceprac.exe
+C:\Users\riyas\source\repos\Interfaceprac\bin\Debug\net8.0\Interfaceprac.deps.json
+C:\Users\riyas\source\repos\Interfaceprac\bin\Debug\net8.0\Interfaceprac.runtimeconfig.json
+C:\Users\riyas\source\repos\Interfaceprac\bin\Debug\net8.0\Interfaceprac.dll
+C:\Users\riyas\source\repos\Interfaceprac\bin\Debug\net8.0\Interfaceprac.pdb
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.AssemblyInfoInputs.cache
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.AssemblyInfo.cs
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.csproj.CoreCompileInputs.cache
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.dll
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\refint\Interfaceprac.dll
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.pdb
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\Interfaceprac.genruntimeconfig.cache
+C:\Users\riyas\source\repos\Interfaceprac\obj\Debug\net8.0\ref\Interfaceprac.dll
