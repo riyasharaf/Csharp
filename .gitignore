@@ -1,0 +1,31 @@
+# Ignore Visual Studio files
+.vs/
+.vspscc
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebug*/*
+
+# Ignore compiled binary files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+
+# Ignore Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ignore user-specific files
+*.swp
+
